@@ -110,15 +110,15 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 
 #### Question 1
 
-- Could my account get blocked by using InstaTools ?
+- Can my account get banned by using InstaTools ?
 
-Answer ➡️ Absolutely not. InstaTools strictly adheres to Instagram's guidelines, and it does not violate any privacy-related rules. Therefore, there is no reason for Instagram to block the account of an InstaTools user.
+Answer ➡️ Absolutely not. InstaTools strictly adheres to Instagram's guidelines, and it does not violate any privacy-related rules. Therefore, there is no reason for Instagram to block your account.
 
 #### Question 2
 
 - Encountering error while attempting to log in ?
 
-Answer ➡️ This error can be resolved by simply logging in to your account from your browser, completing Instagram's verification tests and executing the script again.
+Answer ➡️ This error can be resolved simply by logging in to your account from your browser, completing Instagram's verification tests and executing the script again.
     
 ## License 📜
 
