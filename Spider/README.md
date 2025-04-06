@@ -1,6 +1,6 @@
 # Spider 🕸️
 
-**Short description:** Spider efficiently gathers URLs from Instagram by scanning captions, user bios, and other sources, supporting diverse needs such as marketing analysis or research.
+**Short description:** Spider gathers URLs from Instagram users by scanning captions, user bios, and other sources.
 
 **Long description:** Spider is a robust tool designed to collect URLs from Instagram, offering users a comprehensive approach to gathering valuable web links. By scouring captions, user bios, and other sources across the platform, Spider provides a rich array of URLs for various purposes, from marketing campaigns to research endeavors. Its versatility allows users to extract links related to products, promotions, blog posts, or other content, enabling them to stay informed and connected within the Instagram ecosystem. Whether you're a digital marketer seeking to analyze competitors' strategies or a researcher studying online trends, Spider's capabilities streamline the process of URL acquisition, empowering users to access the information they need efficiently and effectively. **Works for both public and private profiles.**
 
