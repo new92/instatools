@@ -6,7 +6,7 @@ Leetcode: @new92
 PyPI: @new92
 Contributors: [@Itsfizziks, @ProgramR4732]
 
-Tracker is a python script designed to monitor and maintain a record of a user's Instagram followers and followings. With Tracker, you can effortlessly keep tabs on changes in your Instagram network over time, making it a valuable tool for social media enthusiasts, influencers, and businesses looking to manage their online presence.
+Tracker is a python script designed to monitor and maintain a record of a user's Instagram followers and followings
 
 {*********IMPORTANT*********}
 User's login credentials (such as: username, session file) won't be stored ! 
