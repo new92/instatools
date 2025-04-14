@@ -22,7 +22,7 @@ Any type of feedback is welcome and appreciated. (Please do not use any vulgar v
 
 ## What's new 🚀
 
-- Addition of more tools (<a href="https://github.com/new92/InstaTools/tree/main/Chronos">Chronos</a>, <a href="https://github.com/new92/InstaTools/tree/main/Delta">Delta</a>, <a href="https://github.com/new92/InstaTools/tree/main/Hunter">Hunter</a>, <a href="https://github.com/new92/InstaTools/tree/main/Kratos">Kratos</a>, <a href="https://github.com/new92/InstaTools/tree/main/Sphinx">Sphinx</a>, <a href="https://github.com/new92/InstaTools/tree/main/Spider">Spider</a>)
+- Addition of more tools (<a href="https://github.com/new92/InstaTools/tree/main/Chronos">Chronos</a>, <a href="https://github.com/new92/InstaTools/tree/main/Delta">Delta</a>, <a href="https://github.com/new92/InstaTools/tree/main/Hunter">Hunter</a>, <a href="https://github.com/new92/InstaTools/tree/main/Sphinx">Sphinx</a>, <a href="https://github.com/new92/InstaTools/tree/main/Spider">Spider</a>)
 
 - Fixed bugs
 
