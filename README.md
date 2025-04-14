@@ -30,7 +30,7 @@ Any type of feedback is welcome and appreciated. (Please do not use any vulgar v
 
 - Enhanced UI
 
-- Added the "save to CSV" option to most of the scripts
+- Added the "save to CSV" option to most tools
 
 
 ## Installation 📥
