@@ -1,5 +1,5 @@
 instaloader == 4.10
-requests == 2.32.0
+requests == 2.32.4
 colorama == 0.4.6
 prettytable == 3.8.0
 instagrapi == 1.16.30
