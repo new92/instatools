@@ -1,4 +1,4 @@
-<center><h1><a href="https://github.com/new92/instatools/discussions/36">🚨Ideas for future tools 🚀</a></h1></center>
+<center><h1><a href="https://github.com/new92/instatools/discussions/36">🚨Ideas for future tools wanted 🚀</a></h1></center>
 
 ![logo-no-background](https://github.com/new92/InstaTools/assets/94779840/6b147b66-c439-4ef8-bded-4d77909c9fe7)
 
