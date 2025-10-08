@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Please use <a href="https://github.com/new92/Mutuals/discussions">Discussions</a> to report a vulnerability, a bug, to suggest a feature etc.
+Please use <a href="https://github.com/new92/instatools/discussions">Discussions</a> to report a vulnerability, a bug, to suggest a feature etc.
