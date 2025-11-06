@@ -12,7 +12,7 @@
 python3 cookies.py
 python3 update.py # if you want to check for updates else skip it.
 cd IsVer
-python3 isver.py -u <username> -t <target_username> -s <path_to_session_file>
+python3 isver.py -u <your_username> -t <target_username> -s <path_to_session_file>
 ```
 
 ## Why IsVer ? 😶‍🌫️
