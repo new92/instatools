@@ -12,7 +12,7 @@
 python3 cookies.py
 python3 update.py # if you want to check for updates else skip it.
 cd Mutuals
-python3 mutuals.py -u <username> -u1 <user_1> -u2 <user_2> -s <path_to_session_file>
+python3 mutuals.py -u <your_username> -u1 <user_1> -u2 <user_2> -s <path_to_session_file>
 ```
 
 ## Why Mutuals ? 🧐
