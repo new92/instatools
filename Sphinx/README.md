@@ -12,7 +12,7 @@
 python3 cookies.py
 python3 update.py # if you want to check for updates else skip it.
 cd Sphinx
-python3 sphinx.py -u <username> -s <path_to_session_file>
+python3 sphinx.py -u <your_username> -s <path_to_session_file>
 ```
 
 ## Why Sphinx 😶‍🌫️
