@@ -327,7 +327,7 @@ def main(username: str, session: str, user1: str, user2: str):
             print(f"{YELLOW}[2] Find the mutual followees")
             print(f"{YELLOW}[3] Find the mutual followers & followees")
             t=int(input(f"{YELLOW}[::] Number >>> "))
-            while t not in range(1,3):
+            while t not in range(1,4):
                 print(f"{RED}[✘] Invalid number !")
                 sleep(1)
                 print(f"{GREEN}[+] Acceptable numbers >>> [1,2]")
