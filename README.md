@@ -26,7 +26,7 @@ Any type of feedback is welcome and appreciated. (Please do not use any vulgar v
 
 - Fixed bugs
 
-- Fixed README.md files
+- Fixed README.md file
 
 - Enhanced UI
 
