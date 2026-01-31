@@ -102,9 +102,13 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 
 ## Features 🆕
 
-- [x] Add more tools
+- [ ] New tools
+- [ ] Enhanced UI
+- [ ] UX improvements
+- [ ] Interactive menu mode
+- [ ] Config support
+- [ ] Safety & Account protection
 - [x] Fix bugs
-- [x] Enhanced UI
 
 ## FAQ 🤔
 
