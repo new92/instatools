@@ -108,7 +108,7 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 - [ ] Interactive menu mode
 - [ ] Config support
 - [ ] Safety & Account protection
-- [x] Fix bugs
+- [ ] Documentation
 
 ## FAQ 🤔
 
