@@ -51,3 +51,4 @@ if __name__ == "__main__":
         import_session(args.cookiefile or get_cookiefile(), args.sessionfile)
     except (ConnectionException, OperationalError) as e:
         raise SystemExit(f"Cookie import failed: {e}")
+
