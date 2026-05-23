@@ -4,9 +4,9 @@
 
 InstaTools offers a suite of powerful automation tools designed specifically for Instagram users. From automating time-consuming tasks to conducting in-depth research, InstaTools streamlines processes that would otherwise demand significant time and effort, particularly for users with large followings. Whether you're managing a high-profile account or conducting market research, these tools provide valuable insights and efficiency. However, it's important to use InstaTools judiciously to avoid risking account suspension or even permanent blocking. Exercise caution and use responsibly to maximize benefits without jeopardizing your account's integrity.
 
-> If you find value in this repository, please consider giving it a star and/or forking it. Your support greatly encourages me to create more repositories like InstaTools.
+> If you find value in this repository consider giving it a star and/or forking it. Your support greatly encourages me to create more repositories like InstaTools.
 
-If you didn't like it and/or found a bug or you have a suggestion please feel free to contact me at anytime at <a href='mailto:new92github@gmail.com'>this email address</a>. Or create a <a href="https://github.com/new92/InstaTools/discussions">discussion</a>. Or open an <a href="https://github.com/new92/InstaTools/issues">issue</a>.
+If you found a bug or have a suggestion feel free to contact me anytime at <a href='mailto:new92github@gmail.com'>this email address</a>. Or create a <a href="https://github.com/new92/InstaTools/discussions">discussion</a>. Or open an <a href="https://github.com/new92/InstaTools/issues">issue</a>.
 Any type of feedback is welcome and appreciated. (Please do not use any vulgar vocabulary)
 
 ## Urls 🔗
