@@ -2,6 +2,6 @@ instaloader == 4.10
 requests == 2.33.0
 colorama == 0.4.6
 prettytable == 3.8.0
-instagrapi == 1.16.30
+instagrapi == 2.6.9
 rich == 12.6.0
 tabulate == 0.9.0
