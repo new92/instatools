@@ -2,9 +2,9 @@
 
 [![Codacy grade](https://img.shields.io/codacy/grade/187dba28735848868b7f8615e0e45597?style=for-the-badge&logo=codacy)](https://img.shields.io/codacy/grade/187dba28735848868b7f8615e0e45597?style=for-the-badge&logo=codacy) [![Open issues](https://img.shields.io/github/issues/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues/new92/InstaTools?style=for-the-badge&logo=github) [![Closed issues](https://img.shields.io/github/issues-closed/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-closed/new92/InstaTools?style=for-the-badge&logo=github) [![Open pull requests](https://img.shields.io/github/issues-pr/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-pr/new92/InstaTools?style=for-the-badge&logo=github) [![Closed pull requests](https://img.shields.io/github/issues-pr-closed/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/issues-pr-closed/new92/InstaTools?style=for-the-badge&logo=github) [![Discussions](https://img.shields.io/github/discussions/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/discussions/new92/InstaTools?style=for-the-badge&logo=github) [![Code size in bytes](https://img.shields.io/github/languages/code-size/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/languages/code-size/new92/InstaTools?style=for-the-badge&logo=github) [![File count](https://img.shields.io/github/directory-file-count/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/directory-file-count/new92/InstaTools?style=for-the-badge&logo=github) [![Repo size](https://img.shields.io/github/repo-size/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/repo-size/new92/InstaTools?style=for-the-badge&logo=github) [![Followers](https://img.shields.io/github/followers/new92?style=for-the-badge&logo=github)](https://img.shields.io/github/followers/new92?style=for-the-badge&logo=github) [![Stars](https://img.shields.io/github/stars/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/stars/new92/InstaTools?style=for-the-badge&logo=github) [![Forks](https://img.shields.io/github/forks/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/forks/new92/InstaTools?style=for-the-badge&logo=github) [![Watchers](https://img.shields.io/github/watchers/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/watchers/new92/InstaTools?style=for-the-badge&logo=github) [![Language count](https://img.shields.io/github/languages/count/new92/InstaTools?style=for-the-badge&logo=github)](https://img.shields.io/github/languages/count/new92/InstaTools?style=for-the-badge&logo=github) [![Top language used](https://img.shields.io/github/languages/top/new92/InstaTools?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/github/languages/top/new92/InstaTools?style=for-the-badge&logo=python&logoColor=white)
 
-InstaTools offers a suite of powerful automation tools designed specifically for Instagram users. From automating time-consuming tasks to conducting in-depth research, InstaTools streamlines processes that would otherwise demand significant time and effort, particularly for users with large followings. Whether you're managing a high-profile account or conducting market research, these tools provide valuable insights and efficiency. However, it's important to use InstaTools judiciously to avoid risking account suspension or even permanent blocking. Exercise caution and use responsibly to maximize benefits without jeopardizing your account's integrity.
+🧰 **InstaTools** is a set of Instagram automation and research tools that help automate repetitive tasks, save time, and gather insights. 
 
-> If you find value in this repository consider giving it a star and/or forking it. Your support greatly encourages me to create more repositories like InstaTools.
+> If you find this repository useful, please consider ⭐ starring or forking it. Your support helps motivate me to continue building and sharing projects like InstaTools.
 
 If you found a bug or have a suggestion feel free to contact me anytime at <a href='mailto:new92github@gmail.com'>this email address</a>. Or create a <a href="https://github.com/new92/InstaTools/discussions">discussion</a>. Or open an <a href="https://github.com/new92/InstaTools/issues">issue</a>.
 Any type of feedback is welcome and appreciated. (Please do not use any vulgar vocabulary)
@@ -24,13 +24,13 @@ Any type of feedback is welcome and appreciated. (Please do not use any vulgar v
 
 - Addition of more tools (<a href="https://github.com/new92/InstaTools/tree/main/Chronos">Chronos</a>, <a href="https://github.com/new92/InstaTools/tree/main/Delta">Delta</a>, <a href="https://github.com/new92/InstaTools/tree/main/Hunter">Hunter</a>, <a href="https://github.com/new92/InstaTools/tree/main/Sphinx">Sphinx</a>, <a href="https://github.com/new92/InstaTools/tree/main/Spider">Spider</a>)
 
-- Fixed bugs
+- Fixed bugs [x]
 
-- Fixed README.md file
+- Fixed README.md file [x]
 
-- Enhanced UI
+- Enhanced UI [x]
 
-- Added the "save to CSV" option to most tools
+- Added the "save to CSV" option to most tools [x]
 
 
 ## Installation 📥
@@ -96,8 +96,8 @@ Please adhere to this project's `code of conduct`. For more info please check th
 
 If you have any feedback, please reach out to us at <a href="mailto:new92github@gmail.com">this email address</a>.
 
-**Feel free to contact us anytime ! You'll get a reply within a day. Please avoid using abusive or offensive language.
-If you are reporting a bug or making a suggestion please make sure your report/suggestion is as much detailed as possible.**
+**Feel free to contact us anytime. Please be respectful and avoid abusive or offensive language.
+If you're reporting a bug or submitting a suggestion, include as much detail as possible so we can better understand and address it.**
 
 
 ## Features 🆕
