@@ -1,4 +1,4 @@
-rom argparse import ArgumentParser
+from argparse import ArgumentParser
 from glob import glob
 from os.path import expanduser
 from platform import system
