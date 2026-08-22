@@ -130,4 +130,4 @@ Answer ➡️ This error can be resolved simply by logging in to your account fr
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=new92/InstaTools&type=Date)](https://star-history.com/#new92/InstaTools&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=new92/InstaTools&type=Date)](https://star-history.dera.page/#new92/InstaTools&Date)
