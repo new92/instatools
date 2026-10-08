@@ -154,4 +154,4 @@ For commercial licensing or other permissions:
 
 ## Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=new92/InstaTools&type=Date)](https://star-history.dera.page/#new92/InstaTools&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=new92/InstaTools)](https://star-history.dera.page/new92/InstaTools)
