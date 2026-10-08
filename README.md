@@ -126,7 +126,31 @@ Answer ➡️ This error can be resolved simply by logging in to your account fr
     
 ## License 📜
 
-[![License](https://img.shields.io/github/license/new92/IGFollowersIncreaser?style=for-the-badge)](https://github.com/new92/IGFollowersIncreaser/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-InstaTools%20Non--Commercial-red.svg)](https://github.com/new92/instatools/blob/main/LICENSE.md)
+
+**[📄 Read the Full InstaTools Non-Commercial License](https://github.com/new92/instatools/blob/main/LICENSE.md)**
+
+InstaTools is **source-available, not open source**, and is released under the **InstaTools Non-Commercial License**.
+
+You may use, study, modify, and redistribute InstaTools for personal, educational, academic, research, and other non-commercial purposes, subject to the terms of the license.
+
+**Commercial use is prohibited without prior written permission.**
+
+This includes using InstaTools in commercial products or services, paid services, SaaS/cloud services, commercial automation, commercial data collection, or other revenue-generating activities.
+
+If you modify and redistribute InstaTools, you must:
+
+* retain the original copyright notice;
+* retain attribution to **new92**;
+* include the license;
+* clearly identify your version as modified; and
+* not imply that your modified version is an official InstaTools release.
+
+The license does not grant any patent rights or other intellectual-property rights beyond the permissions expressly stated in the license.
+
+For commercial licensing or other permissions:
+
+**[new92github@gmail.com](mailto:new92github@gmail.com)**
 
 ## Star History
 
